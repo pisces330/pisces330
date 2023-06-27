@@ -1,6 +1,5 @@
 ### 👋 Hi there 👋
 
-I'm studying to be a front-end web developer.
 
 
 ### 📚 Skills (learning...)
