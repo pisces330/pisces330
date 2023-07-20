@@ -14,6 +14,9 @@ My name is Yeon. I have a passion for development and enjoy learning and applyin
 
 <img src="https://img.shields.io/badge/Nest.js-E0234E?style=flat-square&logo=Nestjs&logoColor=white"/> <img src="https://img.shields.io/badge/flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/> <img src="https://img.shields.io/badge/dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
 
+### 🌟 About me.
+[![Notion](https://img.shields.io/badge/Notion-7F52FF?style=flat-square&logo=Notion&logoColor=white)](https://stealth-philosophy-a9d.notion.site/Yeon-15524ca0a2c9421c9e73ed6e7a10700d?pvs=4)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pisces330&layout=compact&theme=solarized-light)
 <!--
 **pisces330/pisces330** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
